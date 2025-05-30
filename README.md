@@ -1,8 +1,24 @@
-# Food Delivery App (Zomato Clone)
+Food Delivery App (Zomato Clone)
+Webiste video 
+https://github.com/user-attachments/assets/db48a91a-7949-48f1-8ef3-a262fb1bb582
 
 A full-stack food delivery application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Main page 
+![Image 30-05-25 at 7 50 PM](https://github.com/user-attachments/assets/9b245527-30c1-478d-b48f-a95cbfa1fdb3)
 
-## Features
+Login page 
+![Image 30-05-25 at 7 51 PM](https://github.com/user-attachments/assets/85e38de7-9f12-4ad2-99ef-b80f39a05d7e)
+
+Registration page 
+
+![Image 30-05-25 at 7 51 PM](https://github.com/user-attachments/assets/2c0696f7-aef8-43df-8a14-6b86a1dae191)
+
+Food Iteam page and Hotels 
+
+![Image 30-05-25 at 7 51 PM](https://github.com/user-attachments/assets/94f91cdd-8ce3-4482-8b36-fde32dc14004)
+
+
+Features
 
 - User authentication and authorization
 - Restaurant listing and search
@@ -14,7 +30,7 @@ A full-stack food delivery application built with the MERN stack (MongoDB, Expre
 - Restaurant ratings and reviews
 - User profile management
 
-## Tech Stack
+Tech Stack
 
 - Frontend: React.js, Redux, Material-UI
 - Backend: Node.js, Express.js
@@ -23,7 +39,7 @@ A full-stack food delivery application built with the MERN stack (MongoDB, Expre
 - Real-time updates: Socket.io
 - Payment: Stripe
 
-## Project Structure
+Project Structure
 
 ```
 food-delivery-app/
@@ -32,15 +48,15 @@ food-delivery-app/
 └── README.md
 ```
 
-## Setup Instructions
+Setup Instructions
 
-### Prerequisites
+Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB
 - npm or yarn
 
-### Backend Setup
+Backend Setup
 
 1. Navigate to the server directory:
    ```bash
@@ -65,7 +81,7 @@ food-delivery-app/
    npm run dev
    ```
 
-### Frontend Setup
+Frontend Setup
 
 1. Navigate to the client directory:
    ```bash
@@ -88,7 +104,7 @@ food-delivery-app/
    npm start
    ```
 
-## Contributing
+Contributing
 
 1. Fork the repository
 2. Create your feature branch
